@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # bash2run
 Using Cloud Run to run cloud SDK CLI commands
 =======
@@ -51,6 +50,5 @@ A few use cases can be envisioned with this tool:
 
 Cf Makefile
 
-*WIP*
-
->>>>>>> f771d89 (📝 (README): Initial commit)
+It assumes there is an active GCP project with the project variable set.
+Cloud Run needs to be enabled.
