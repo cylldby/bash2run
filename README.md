@@ -49,4 +49,5 @@ A few use cases can be envisioned with this tool:
 
 Cf Makefile
 
-*WIP*
+It assumes there is an active GCP project with the project variable set.
+Cloud Run needs to be enabled.
